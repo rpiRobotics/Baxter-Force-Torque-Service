@@ -1,0 +1,6 @@
+C:\Users\cats\Documents\FT_Service\FT_Service\obj\x86\Debug\FT_Service.csprojResolveAssemblyReference.cache
+C:\Users\cats\Documents\FT_Service\FT_Service\bin\Debug\FT_Service.exe
+C:\Users\cats\Documents\FT_Service\FT_Service\bin\Debug\FT_Service.pdb
+C:\Users\cats\Documents\FT_Service\FT_Service\bin\Debug\RobotRaconteurNet.dll
+C:\Users\cats\Documents\FT_Service\FT_Service\obj\x86\Debug\FT_Service.exe
+C:\Users\cats\Documents\FT_Service\FT_Service\obj\x86\Debug\FT_Service.pdb

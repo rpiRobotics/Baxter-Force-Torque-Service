@@ -1,0 +1,23 @@
+service sensors.ati.mini45
+
+option version 0.5
+
+struct FTData
+    field int64 time
+    field double[] ft_data
+end struct
+
+object ATImini45Host
+	objref ATImini45[] ft
+end object
+
+object ATImini45
+	pipe FTData FTDataStream
+	property double[6] wrench
+	property uint8 recording_data
+	function void changeCalibration(uint8 config)
+	function void bias()
+	function void startRecordingData(string filename)
+	function void stopRecordingData()
+end object
+
